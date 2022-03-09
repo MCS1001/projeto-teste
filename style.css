@@ -1,0 +1,29 @@
+body {
+  font-family: "Lucida Handwriting", monospace;
+  background-color: #8fbc8f;
+}
+.tituloprincipal {
+  font-size: 38px;
+  margin: 15 15 15 15px;
+}
+.subtituloprincipal {
+  font-size: 26px;
+  margin: 15 15 15 15px;
+}
+label {
+  margin: 10 10 10 10px;
+  font-size: 22px;
+}
+.input1 {
+  margin-left: 115px;
+}
+h3 {
+  margin-top: 25px;
+  margin-bottom: 15px;
+  font-family: "Arial", sans-serif;
+}
+h4 {
+  margin-top: 05px;
+  margin-bottom: 05px;
+  font-family: "Arial", sans-serif;
+}
